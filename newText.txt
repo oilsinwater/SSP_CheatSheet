@@ -1,0 +1,6 @@
+pwd - Print Working Directory; -> Users/jEngdahl/Desktop/example
+ls - list files in directory; 
+touch - makes the files that you specify; touch test.txt test.js test.css -> newText.txt test.css    test.js     test.txt
+rm - remove files from directory; -> rm test.* -> newText.txt
+mkdir - make a directory in the current location;
+cd - Change Directory; 
